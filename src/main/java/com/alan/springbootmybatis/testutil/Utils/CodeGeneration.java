@@ -1,4 +1,4 @@
-package com.alan.springbootmybatis.Utils;
+package com.alan.springbootmybatis.testutil.Utils;
 
 import java.util.ArrayList;
 import java.util.List;
