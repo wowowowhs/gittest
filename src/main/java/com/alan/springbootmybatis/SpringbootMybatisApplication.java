@@ -10,6 +10,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringbootMybatisApplication {
     /**whstest**/
     public static void main(String[] args) {
+        /**whs20210901test**/
         SpringApplication.run(SpringbootMybatisApplication.class, args);
     }
 
